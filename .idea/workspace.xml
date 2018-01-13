@@ -9,15 +9,7 @@
     <bookmark url="file://$USER_HOME$/Documents/GitHub/monkeyTest/Base/BaseAnalysis.py" description="print  &quot;22222222222-------------&quot;" line="100" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1b808f0-4222-41a2-83dc-5c6bff17d401" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LocalMonkeyTest/html/123.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LocalMonkeyTest/html/temp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LocalMonkeyTest/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LocalMonkeyTest/test1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LocalMonkeyTest/main.py" afterPath="$PROJECT_DIR$/LocalMonkeyTest/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LocalMonkeyTest/report.py" afterPath="$PROJECT_DIR$/LocalMonkeyTest/report.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LocalMonkeyTest/thread_util.py" afterPath="$PROJECT_DIR$/LocalMonkeyTest/thread_util.py" />
-    </list>
+    <list default="true" id="e1b808f0-4222-41a2-83dc-5c6bff17d401" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
